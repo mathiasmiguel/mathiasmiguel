@@ -10,13 +10,13 @@
 
 ### 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmiguel_&layout=compact&langs_count=7&theme=transparent" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmiguel&layout=compact&langs_count=7&theme=transparent" alt="Linguagens mais usadas" />
 </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://github.com/mathiasmiguel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mathiasmiguel_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miguel mathias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel mathias" height="30" width="40" /></a>
+<a href="https://github.com/mathiasmiguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mathiasmiguel_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miguel-mathias-a5938b386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel mathias" height="30" width="40" /></a>
 <a href="https://instagram.com/mathiasmiguel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathiasmiguel_" height="30" width="40" /></a>
 </p>
 
