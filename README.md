@@ -2,7 +2,7 @@
 
 ### Um aspirante a desenvolvedor FullStack
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathiasmiguel_&label=Visitas ao perfil&color=0e75b6&style=flat" alt="mathiasmiguel_" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathiasmiguel_&label=Visitas ao perfil&color=0e75b6&style=flat" alt="mathiasmiguel_" /> </p>
 
 - 🔭 Atualmente estou trabalhando em **um projeto de controle de finanças pessoais em React.js**
 - 🌱 No momento estou aprendendo **TypeScript, React e Backend**
@@ -34,4 +34,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiasmiguel_&" alt="mathiasmiguel_" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiasmiguel_&" alt="mathiasmiguel_" /></p> -->
